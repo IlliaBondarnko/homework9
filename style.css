@@ -1,0 +1,119 @@
+*{
+    text-decoration: none;
+}
+
+html {
+    width: 1440px;
+}
+
+section, header, footer{
+    margin: 0 auto;
+}
+
+/* ___TASK_1______________________________________________________________ */
+
+.first_task{
+    height: 120px;
+}
+
+.square1 {
+    position: absolute;
+    top: 30px;
+    left: 60px;
+}
+
+.square2 {
+    position: absolute;
+    top: 60px;
+    left: 90px;
+    z-index: 1;
+}
+
+.square3 {
+    position: absolute;
+    top: 90px;
+    left: 120px;
+}
+
+/* ___TASK_2______________________________________________________________ */
+
+.second_task{
+    height: 400px;
+}
+
+.div_square{
+    position: absolute;
+    top: 250px;
+    width: 320px;
+    height: 240px;
+    background-color: rgb(121, 255, 121);
+}
+
+.square4 {
+    position: absolute;
+    left: 30px;
+}
+
+.square5 {
+    position: absolute;
+    left: 220px;
+    top: 120px;
+}
+
+/* ___TASK_3______________________________________________________________ */
+
+.third_task{
+    height: 450px;
+}
+
+.circle1{
+    position: absolute;
+    top: 640px;
+    z-index: -1;
+}
+
+.circle2 {
+    position: absolute;
+    top: 700px;
+    left: 90px;
+}
+
+.circle3 {
+    position: absolute;
+    top: 700px;
+    left: 220px;
+}
+
+.square6{
+    position: absolute;
+    top: 780px;
+    left: 175px;
+}
+
+.square7 {
+    position: absolute;
+    top: 910px;
+    left: 100px;
+}
+
+/* ___TASK_4______________________________________________________________ */
+
+
+
+.circle4{
+    position: absolute;
+    top: 1270px;
+    left: 130px;
+}
+
+.circle5{
+    position: absolute;
+    top: 1370px;
+    left: 130px;
+}
+
+.circle6{
+    position: absolute;
+    top: 1470px;
+    left: 130px;
+}
